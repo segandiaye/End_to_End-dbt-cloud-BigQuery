@@ -1,2 +1,21 @@
-# End_to_End-dbt-cloud-BigQuery
-End-to-End dbt cloud with BigQuery
+# Hands-on dbt
+
+End-to-End dbt cloud with BigQuery.
+
+# Setup
+
+```bash
+TODO
+```
+
+# Running
+
+```bash
+TODO
+```
+
+# Useful resources
+
+```bash
+TODO
+```
